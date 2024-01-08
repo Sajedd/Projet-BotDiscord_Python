@@ -1,9 +1,9 @@
-# Projet Bot Discord B2
+# 🤖 Projet Bot Discord B2
 ![Bot-discord](https://github.com/Sajedd/Projet-BotDiscord_Python/assets/112949717/64e6c206-fedb-4075-9ba8-2bce8b093e7f)
-## Description
+## 🌐 Description
 Ce projet consiste à développer un bot Discord avec diverses fonctionnalités, en utilisant des structures de données telles que les listes chaînées, les files, les arbres binaires, et les hashtables. Le bot est conçu pour maintenir un historique des commandes, gérer des dialogues interactifs, et stocker des données liées à l'utilisateur.
 
-## Fichiers et Leur Fonctionnalités
+## 🔍 Fichiers et Leur Fonctionnalités
 bot_main.py
 Ce fichier est le point d'entrée principal du bot Discord. Il initialise le bot et gère les interactions de base avec l'utilisateur Discord.
 
@@ -28,7 +28,7 @@ Fournit des fonctions utilitaires qui aident dans divers aspects du bot, comme l
 ![image](https://github.com/Sajedd/Projet-BotDiscord_Python/assets/112949717/14d1834a-fae1-4c9b-a73f-9a1a11fc27da)
 
 
-## Fonctionnalités Clés
+## 🗝️Fonctionnalités Clés
 Gestion de l'Historique des Commandes : Utilise une liste chaînée, une pile, ou une file pour maintenir un historique des commandes.
 
 Intégrité de l'Historique : Utilise une file pour limiter l'accès à l'historique à une seule personne à la fois.
