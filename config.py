@@ -1,4 +1,4 @@
-DISCORD_TOKEN = 'MTE5MzU3MDY4NDg2NjEzODE3Mw.GcAdEs.wB-tapTQteZNfi73dQZLi6LxxFArryZW08ByQY'
+DISCORD_TOKEN = '''INSERT_YOUR_TOKEN'''
 
 MOTOCROSS_BRANDS = ["Yamaha", "KTM", "RMZ", "Honda"]
 FOOTBALL_TEAMS = ["FC Barcelona", "Real Madrid", "Manchester United", "Paris Saint-Germain"]
