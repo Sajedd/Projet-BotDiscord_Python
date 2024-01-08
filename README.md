@@ -2,7 +2,7 @@
 ## Description
 Ce projet consiste à développer un bot Discord avec diverses fonctionnalités, en utilisant des structures de données telles que les listes chaînées, les files, les arbres binaires, et les hashtables. Le bot est conçu pour maintenir un historique des commandes, gérer des dialogues interactifs, et stocker des données liées à l'utilisateur.
 
-# Fichiers et Leur Fonctionnalités
+## Fichiers et Leur Fonctionnalités
 bot_main.py
 Ce fichier est le point d'entrée principal du bot Discord. Il initialise le bot et gère les interactions de base avec l'utilisateur Discord.
 
@@ -24,7 +24,7 @@ Implémente un système de quiz interactif en utilisant un arbre de décision. P
 utilities.py
 Fournit des fonctions utilitaires qui aident dans divers aspects du bot, comme la manipulation de chaînes de caractères, le traitement des entrées utilisateur, etc.
 
-# Fonctionnalités Clés
+## Fonctionnalités Clés
 Gestion de l'Historique des Commandes : Utilise une liste chaînée, une pile, ou une file pour maintenir un historique des commandes.
 Intégrité de l'Historique : Utilise une file pour limiter l'accès à l'historique à une seule personne à la fois.
 Système de Dialogue Interactif : Utilise un arbre binaire pour créer un dialogue interactif avec l'utilisateur, permettant de poser des questions et de répondre aux besoins de l'utilisateur.
