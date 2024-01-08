@@ -30,8 +30,13 @@ Fournit des fonctions utilitaires qui aident dans divers aspects du bot, comme l
 
 ## Fonctionnalités Clés
 Gestion de l'Historique des Commandes : Utilise une liste chaînée, une pile, ou une file pour maintenir un historique des commandes.
+
 Intégrité de l'Historique : Utilise une file pour limiter l'accès à l'historique à une seule personne à la fois.
+
 Système de Dialogue Interactif : Utilise un arbre binaire pour créer un dialogue interactif avec l'utilisateur, permettant de poser des questions et de répondre aux besoins de l'utilisateur.
+
 Stockage des Données par Utilisateur : Utilise une hashtable pour lier les données (historique des commandes, état des dialogues) à chaque utilisateur Discord.
+
 Persistance des Données : Assure que les données ne sont pas perdues lorsque le bot s'arrête meme lorsque discord est fermer.
+
 Extensibilité : Le système est conçu pour permettre l'ajout facile de nouvelles fonctionnalités au bot.
